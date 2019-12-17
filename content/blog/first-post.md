@@ -1,3 +1,5 @@
-# Ciao
+---
+title: Another Great Post
+---
 
-Questo è il mio post
+The content
